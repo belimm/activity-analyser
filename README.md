@@ -67,5 +67,8 @@ Numbers in Figure 1 are simple sensors.
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/76854271/156816735-51da1a4a-6a98-475e-8c99-c8296c224131.png">
 
 <h2>Sample Output</h2>
-![project4](https://user-images.githubusercontent.com/76854271/156817123-f75b303d-0579-43d9-915f-d4ce8262e209.jpg)
+
+
+<img width="688" alt="Untitled-1" src="https://user-images.githubusercontent.com/76854271/156817227-9064826f-1067-4194-8c46-43eb03bdf32e.png">
+
 
