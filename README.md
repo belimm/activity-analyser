@@ -15,18 +15,49 @@ Numbers in Figure 1 are simple sensors.
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Sensor ID</th>
+    <th>Related Activity</th>
+
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>0</td>
+    <td>Watering the flowers</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>1</td>
+    <td>Watering the flowers</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>Watering the flowers</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Watering the flowers</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Watering the flowers</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Watering the flowers</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Watering the flowers</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Watering the flowers</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Watering the flowers</td>
+  </tr>
+   <tr>
+    <td>9</td>
+    <td>Watering the flowers</td>
+  </tr>
+  
 </table>
