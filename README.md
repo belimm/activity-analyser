@@ -61,3 +61,11 @@ Numbers in Figure 1 are simple sensors.
   </tr>
   
 </table>
+
+<h2>Functional Requirements</h2>
+
+<img width="559" alt="image" src="https://user-images.githubusercontent.com/76854271/156816735-51da1a4a-6a98-475e-8c99-c8296c224131.png">
+
+<h2>Sample Output</h2>
+![project4](https://user-images.githubusercontent.com/76854271/156817123-f75b303d-0579-43d9-915f-d4ce8262e209.jpg)
+
