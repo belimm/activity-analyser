@@ -25,39 +25,39 @@ Numbers in Figure 1 are simple sensors.
   </tr>
   <tr>
     <td>1</td>
-    <td>Watering the flowers</td>
+    <td>Sleeping</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Watering the flowers</td>
+    <td>Eating</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Watering the flowers</td>
+    <td>Relaxing</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Watering the flowers</td>
+    <td>Studying</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>Watering the flowers</td>
+    <td>Washing</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>Watering the flowers</td>
+    <td>Cooking</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>Watering the flowers</td>
+    <td>Bathroom</td>
   </tr>
   <tr>
     <td>8</td>
-    <td>Watering the flowers</td>
+    <td>Getting dressed</td>
   </tr>
    <tr>
     <td>9</td>
-    <td>Watering the flowers</td>
+    <td>Entering leaving</td>
   </tr>
   
 </table>
